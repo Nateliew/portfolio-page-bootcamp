@@ -68,7 +68,6 @@ html {
 
 .project-tile img {
   width: 40%;
-  height: 20%;
 }
 
 .project-tile {
@@ -99,6 +98,6 @@ html {
 
 /*Resize the image*/
 .content img {
-  width: 10%;
-  height: 10%;
+  width: 20%;
+  height: 20%;
 }
